@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/bg"
+        android:orientation="vertical"
+        tools:context=".MainActivity"
+        android:onClick="imran"
+>
+
+    <LinearLayout android:layout_width="match_parent"
+                  android:layout_height="wrap_content"
+                  android:orientation="vertical"
+                  app:layout_constraintStart_toStartOf="parent"
+                  app:layout_constraintEnd_toEndOf="parent"
+                  app:layout_constraintTop_toTopOf="parent" android:id="@+id/linearLayout"
+                  app:layout_constraintBottom_toBottomOf="parent">
+        <ImageView android:layout_width="match_parent"
+                   android:layout_height="200dp"
+                   android:layout_marginTop="20dp"
+                   android:layout_gravity="center"
+                   android:src="@drawable/profile"
+                   android:id="@+id/profile"
+                   android:contentDescription="@string/about"/>
+        <LinearLayout android:layout_width="match_parent"
+                      android:layout_marginTop="70dp"
+                      android:layout_height="wrap_content"
+                      android:background="@drawable/bgup"
+                      android:orientation="vertical"
+        >
+            <FrameLayout android:layout_width="wrap_content"
+                         android:layout_height="wrap_content">
+                <ImageView android:layout_width="wrap_content"
+                           android:layout_height="wrap_content"
+                           android:src="@drawable/about"
+                           android:id="@+id/about"
+                           android:layout_marginRight="20dp"/>
+                <TextView android:layout_width="wrap_content"
+                          android:layout_height="wrap_content"
+                          android:text="@string/about"
+                          android:fontFamily="@font/gilroy"
+                          android:textSize="40sp"
+                          android:textColor="@color/bg"
+                          android:layout_gravity="center"
+                          android:layout_marginEnd="20dp"/>
+
+            </FrameLayout>
+            <FrameLayout android:layout_width="wrap_content"
+                         android:layout_marginTop="-20dp"
+                         android:layout_height="wrap_content">
+                <ImageView android:layout_width="wrap_content"
+                           android:layout_height="wrap_content"
+                           android:src="@drawable/education"
+                           android:id="@+id/education"
+                           android:layout_marginStart="20dp"/>
+                <TextView android:layout_width="wrap_content"
+                          android:layout_height="wrap_content"
+                          android:text="@string/education"
+                          android:fontFamily="@font/gilroy"
+                          android:textSize="40sp"
+                          android:layout_gravity="center"
+                          android:textColor="@color/bg"
+                          android:layout_marginStart="20dp"/>
+
+            </FrameLayout>
+            <FrameLayout android:layout_width="wrap_content"
+                         android:layout_marginTop="-20dp"
+                         android:layout_height="wrap_content">
+                <ImageView android:layout_width="wrap_content"
+                           android:layout_height="wrap_content"
+                           android:src="@drawable/hobbies"
+                           android:id="@+id/hobbies"
+                           android:layout_marginEnd="20dp"/>
+                <TextView android:layout_width="wrap_content"
+                          android:layout_height="wrap_content"
+                          android:text="@string/hobbies"
+                          android:fontFamily="@font/gilroy"
+                          android:textSize="40sp"
+                          android:layout_gravity="center"
+                          android:textColor="@color/bg"
+                          android:layout_marginEnd="20dp"/>
+
+            </FrameLayout>
+            <FrameLayout android:layout_width="wrap_content"
+                         android:layout_marginTop="-20dp"
+                         android:layout_height="wrap_content">
+                <ImageView android:layout_width="wrap_content"
+                           android:layout_height="wrap_content"
+                           android:src="@drawable/contact"
+                           android:id="@+id/contact"
+                           android:layout_marginStart="20dp"/>
+                <TextView android:layout_width="wrap_content"
+                          android:layout_height="wrap_content"
+                          android:text="@string/contact"
+                          android:fontFamily="@font/gilroy"
+                          android:textSize="40sp"
+                          android:layout_gravity="center"
+                          android:textColor="@color/bg"
+                          android:layout_marginStart="20dp"/>
+
+            </FrameLayout>
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>

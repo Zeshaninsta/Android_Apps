@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Zeshaninsta</string>
+    <string name="about">ABOUT</string>
+    <string name="education">EDUCATION</string>
+    <string name="hobbies">HOBBIES</string>
+    <string name="contact">CONTACT</string>
+    <string name="aboutParagraph">
+        Emran Mohammed Yakob is a self-taught programmer and aspiring entrepreneur from Ethiopia.\n
+        He was born in Oromia Bale Robe, a beautiful town in the southeast of the country, in 1993 according to the
+        Ethiopian calendar.
+        He grew up there with his family and friends, and developed a passion for technology at an early age.
+        He was fascinated by how computers and software work, and he wanted to learn more about them.
+        He taught himself how to program in different languages, and he created some projects of his own.
+        His dream is to have his own big company like Facebook someday, and to make a positive impact on the world with
+        his innovations.
+        He is still working hard to achieve that goal, and he is grateful for every opportunity that comes his way.
+        Emran Mohammed Yakob is a remarkable example of someone who pursues his passion and dreams with determination
+        and enthusiasm.
+        He has overcome many challenges and obstacles in his life, and he has never given up on his vision.
+        He is always eager to learn new things and to improve his skills. He is a visionary who wants to use technology
+        to make the world a better place.
+        He is an inspiration to many people who share his aspirations and values.\n
+    </string>
+    <string name="educationparagraph">
+        Emran Mohammed Yakob is a passionate programmer and student from Ethiopia.\n
+        He has always been interested in technology and how it can solve problems and create opportunities.
+        He attended his primary and secondary education in Robe Highschool, where he excelled in mathematics and
+        science.
+        He is currently studying Information Technology at Madda Walabu University, where he has learned a lot about
+        programming, web development and android app development.
+        He has also acquired skills in graphics, editing and some basic concepts of computer science. He enjoys working
+        on projects that challenge him and allow him to apply his knowledge and creativity.
+        He hopes to graduate with honors and pursue his dream of becoming a successful entrepreneur and innovator.\n
+
+    </string>
+    <string name="hobbiesparagraph">
+
+        Emran Mohammed Yakob is not only a dedicated programmer and student, but also a person who enjoys life and has
+        many hobbies. \n
+        He loves to read books and articles about technology, business and personal development.
+        He likes to watch documentaries and TED talks that inspire him and teach him new things.
+        He also likes to play games and puzzles that challenge his mind and logic.
+        He is a fan of soccer and basketball, and he likes to play them with his friends.
+        He also likes to travel and explore new places and cultures.
+        He believes that hobbies are a way to relax, have fun and learn from different perspectives.
+        He is a well-rounded person who has a balance between his work and his leisure.
+        He has a variety of hobbies that enrich his life and make him happy.
+        He is always open to try new things and to discover new passions. He is a person who lives with curiosity and
+        joy.\n
+
+    </string>
+    <string name="contactparagraph">
+
+        If you want to get in touch with Emran Mohammed Yakob, you can use any of the following methods.\n
+        He is always happy to hear from people who share his interests and goals.
+        He is also open to feedback, suggestions and collaborations. You can contact him by:\n\n\
+
+        Email: zeshaninsta@gmail.com\n
+        Phone Number: +251928137925\n
+        Facebook: zeshan Insta\n
+        Instagram: Zeshaninsta\n
+        Twitter: ZeshanInsta\n
+        Telegram: Zeshaninsta\n\n
+        He will try to respond as soon as possible. He looks forward to hearing from you.\n
+
+    </string>
+    <string name="todo">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="todo3">TODO</string>
+    <string name="todo4">TODO</string>
+</resources>
